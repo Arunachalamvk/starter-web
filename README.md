@@ -16,6 +16,8 @@ this is deployment stage
 
 ## How to contibute
 
+Please fork this repository and then issue pull
+
 ## Copyright
 
 2014 Git.training
