@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work together. im a fan of virat kohli vjfjkdvknkfbnj, hellojvjfjdfdjjfbnjnbnfnbnjnbnjgnjnk
+This repository is for showing how Git and GitHub work together.
 
 ## Introduction
 
