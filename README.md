@@ -15,3 +15,7 @@ Sample website with plenty of files for demos git training
 this is deployment stage
 
 ## How to contibute
+
+## Copyright
+
+2014 Git.training
