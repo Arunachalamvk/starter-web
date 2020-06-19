@@ -20,4 +20,4 @@ Please fork this repository and then issue pull this is the fucking life we have
 
 ## Copyright
 
-2014 Git.training
+2014 Git.training. ALL rights reserved.
